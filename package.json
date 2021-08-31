@@ -1,0 +1,26 @@
+{
+  "name": "blake3genesis-test",
+  "version": "1.0.0",
+  "description": "Create Genesis Block Proof of Work with Blake3 (test)",
+  "main": "genesis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bastiencaillot/blake3genesis-test.git"
+  },
+  "keywords": [
+    "genesisblock"
+  ],
+  "author": "Bastien Caillot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bastiencaillot/blake3genesis-test/issues"
+  },
+  "homepage": "https://github.com/bastiencaillot/blake3genesis-test#readme",
+  "dependencies": {
+    "blake3": "^2.1.4",
+    "yargs": "^17.1.1"
+  }
+}
